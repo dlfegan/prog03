@@ -23,6 +23,7 @@
     <td>1</td>
     <td>1</td>
     <td>1</td>
+    <output name="Cardinals"> </output>
   </tr>
   <tr>
     <td>Whitecaps</td>
