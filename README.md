@@ -1,7 +1,7 @@
-<form oninput="z.value=parseInt(a.value)+parseInt(b.value)+parseInt(c.value)+parseInt(d.Value)+parseInt(e.value)
-+parseInt(f.value)+parseInt(g.value)+parseInt(h.value)+parseInt(i.value);
-y.value=parseInt(j.value)+parseInt(k.value)+parseInt(l.value)+parseInt(m.Value)+parseInt(n.value)
-+parseInt(o.value)+parseInt(p.value)+parseInt(q.value)+parseInt(r.value)">
+<form 
+oninput="x.value=parseInt(a.value)+parseInt(b.value)+parseInt(c.value)+parseInt(d.Value)+parseInt(e.value)+parseInt(f.value)+parseInt(g.value)+parseInt(h.value)+parseInt(i.value);
+
+y.value=parseInt(j.value)+parseInt(k.value)+parseInt(l.value)+parseInt(m.Value)+parseInt(n.value)+parseInt(o.value)+parseInt(p.value)+parseInt(q.value)+parseInt(r.value)">
 <fieldset>  
   <table>
     <tr>
@@ -47,7 +47,7 @@ y.value=parseInt(j.value)+parseInt(k.value)+parseInt(l.value)+parseInt(m.Value)+
         <input type="text" size="3" id="i" value="0">
       </td>
     <td>
-      <output name="z" for="a b c d e f g h i"/>
+      <output name="x" for="a b c d e f g h i"/>
     </td>
       </form>
   </tr>
