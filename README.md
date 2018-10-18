@@ -1,7 +1,4 @@
-<form 
-oninput="x.value=parseInt(a.value)+parseInt(b.value)+parseInt(c.value)+parseInt(d.Value)+parseInt(e.value)+parseInt(f.value)+parseInt(g.value)+parseInt(h.value)+parseInt(i.value);
 
-y.value=parseInt(j.value)+parseInt(k.value)+parseInt(l.value)+parseInt(m.Value)+parseInt(n.value)+parseInt(o.value)+parseInt(p.value)+parseInt(q.value)+parseInt(r.value)">
 <fieldset>  
   <table>
     <tr>
