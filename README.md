@@ -23,7 +23,6 @@
     <td>1</td>
     <td>1</td>
     <td>1</td>
-    <output name="Cardinals"> 6</output>
   </tr>
   <tr>
     <td>Whitecaps</td>
