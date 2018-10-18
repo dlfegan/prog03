@@ -13,7 +13,7 @@
     <th>Score</th>
   </tr>
   <tr>
-    <td>Cardinals</th>
+    <td>Cardinals</td>
     <td>0</td>
     <td>1</td>
     <td>0</td>
@@ -25,7 +25,7 @@
     <td>1</td>
   </tr>
   <tr>
-    <td>Whitecaps</th>
+    <td>Whitecaps</td>
     <td>1</td>
     <td>1</td>
     <td>0</td>
