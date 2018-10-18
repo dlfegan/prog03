@@ -10,6 +10,7 @@
     <th>7</th>
     <th>8</th>
     <th>9</th>
+    <th>Score</th>
   </tr>
   <tr>
     <td>Cardinals</th>
